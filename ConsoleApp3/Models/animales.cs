@@ -9,5 +9,6 @@ namespace ConsoleApp3.Models
     internal abstract class animales
     {
         public abstract void sonidoAnimal();
+        public abstract void piesAnimal();
     }
 }

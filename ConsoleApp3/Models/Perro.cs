@@ -12,5 +12,9 @@ namespace ConsoleApp3.Models
         {
             Console.WriteLine("El perro hace guau guau");
         }
+        public override void piesAnimal()
+        {
+            Console.WriteLine("4 pies");
+        }
     }
 }

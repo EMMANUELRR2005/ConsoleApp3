@@ -13,6 +13,8 @@ namespace Poo
 
             miperro.sonidoAnimal();
             migato.sonidoAnimal();
+
+            Console.WriteLine("Hola hola");
         }
     }
 }
